@@ -21,26 +21,33 @@ The CodeClan experience has provided me with a foundation and I’m looking for 
 
 - Google **Firebase** back-end with a **JavaScript (React)** front-end 
 - learn how to pick up and understand an existing codebase while improving my understanding of how the layers of a large project come together
-- Writing efficient code in a **pair-programme** environment
+- Writing efficient code via **pair-programming**
 - Improve legacy code via implementation of new features (such as improved user feedback, data persistence from storage not only realtime)
 
-***Code Break: Group Project: 5 days***
-***GitHub Links*** [Full Repo](https://github.com/stmcf/code-br-) <br>
+**Mindfulness App**<br>
+***Code Break: Group Project:** Built in **5 days***
+***GitHub Link*** [Full repo](https://github.com/stmcf/code-br-) <br>
 
 - **Full stack** wellness desktop based application for programmers
 - The application is developed with fully tested **JAVA** backend utilising **SPRING Boot with HIBERNATE** for data persistence and RESTful API’s configured with CORS
 - Front-end developed with **REACT** and styled with **CSS**
 - Responsible for developing the backend as well as setting state via hooks linked to an on screen slider
 
-**Educational App**
-***WATCH THIS SPACE: Group Project: 5-Days***
+**Educational App**<br>
+***WATCH THIS SPACE: Group Project:** Built in **5-Days***
 ***GitHub Links*** [client repo](https://github.com/stmcf/Watch_This_Space_client) / [server repo](https://github.com/stmcf/Watch_This_Space_server) <br>
-- Full Stack children's educational application built for use on tablets
-- Front-end VUE components integrating **JavaScript** logic and scoped **HTML and CSS**
+- **Full Stack** children's educational application built for use on tablets
+- Front-end **VUE.js** components integrating **JavaScript** logic and scoped **HTML and CSS**
 - Back-end using **EXPRESS.js** and **MongoDB**
 - Responsible for writing project JSON and co-built the quiz and switchable component views in **VUE.js**
 - The quiz generates random questions based off the fun facts from the JSON allowing a child to take a question based on a ‘clicked’ planet providing visual feedback to the child
 
+**Solo Full-Stack APP**
+***Falkirk Trail Runners*** Built in **5 Days**
+***GitHub Link*** [Full repo](https://github.com/stmcf/Falkirk_Trail_Runners)
+- First ***full-stack*** solo project at CodeClan
+- Built with **Python3** and the **Flask** framework with **PostgreSQL** for data-persistence 
+- Full **CRUD** Functionality through **RESTful routes** allowing a race-manager to add / update / delete races and competitors from scheduled races
 
 ## Education
 
