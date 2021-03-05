@@ -26,6 +26,7 @@ The CodeClan experience has provided me with a foundation and I’m looking for 
 
 ***Code Break: Group Project: 5 days***
 ***GitHub Links*** [Full Repo](https://github.com/stmcf/code-br-) <br>
+
 - **Full stack** wellness desktop based application for programmers
 - The application is developed with fully tested **JAVA** backend utilising **SPRING Boot with HIBERNATE** for data persistence and RESTful API’s configured with CORS
 - Front-end developed with **REACT** and styled with **CSS**
