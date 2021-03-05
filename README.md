@@ -1,6 +1,6 @@
 # Steven McFarlane
 
-_Software engineer && Father. Based in Falkirk, Scotland_ <br>
+_Software developer && Father. Based in Falkirk, Scotland_ <br>
 
 [Email](mailto:stevenmcfarlane@hotmail.co.uk) / [LinkedIn](https://www.linkedin.com/in/steven--mcfarlane/) / [GitHub](https://github.com/stmcf/) / [Twitter](https://twitter.com/IAMSMCF/) / 
 
@@ -19,9 +19,9 @@ The CodeClan experience has provided me with a foundation and I’m looking for 
 **Volunteer Developer**
 ***Walk at Work _Programme by PathsForAll in partnership with CodeClan CX_***
 
-- Working with Google Firebase as a back-end with a JavaScript (React) front-end while improving my understanding of how the layers of a large project come together
-- learn how to pick up and understand an existing codebase
-- Write code efficiently in a team
+- Google Firebase back-end with a JavaScript (React) front-end 
+- learn how to pick up and understand an existing codebase while improving my understanding of how the layers of a large project come together
+- Writing efficient code in a pair-programme environment
 - Improve legacy code via implementation of new features (such as improved user feedback, data persistence from storage not only realtime)
 
 ***Code Break: Group Project: 5 days***
@@ -61,15 +61,15 @@ The CodeClan experience has provided me with a foundation and I’m looking for 
 ## Life Before Code
 **Consultant Quantity Surveyor (QS) / Contract Manager**
 
-- Freelance Consultant working for Tier 1 construction contractors 
+- Freelance Contracts Consultant working for Tier 1 construction contractors on large scale projects and frameworks 
 - Provision of full project lifecycle commercial and project advice
 - Implementation of new costing systems and procedures
 - Management and training of junior staff
 - Varied cross-sector (water, rail, power and road) experience; 
-  - Triton Knoll Windfarm (£40m), Pre-contract Seagreen wind farm Ph 1 (£330m), Edinburgh Waverley Station Upgrade (£30m), Brodick Ferry Terminal (£23m), Scottish Water Waste Water framework (£105M)
+  - Seagreen offshore wind farm Ph 1 (£330m), Triton Knoll Windfarm (£40m), Dorset Visual Impa t Provision (VIP)(£33m), Boat of Garten VIP (£9m),  Edinburgh Waverley Station Upgrade (£30m), Brodick Ferry Terminal (£23m), Scottish Water Waste Water framework (£105M)
 
 
 ## Interests
 
-I love being outdoors whether thats running in the trails, hill walking or bouldering. Pre-pandemic I had begun to learn indoor climbing with my daughter. I enjoy reading and recently started sketching landscapes. I have a keen interest in global environmental issues - learning how i can make a difference while trying to lead by example for my children.
+I love being outdoors whether thats running in the trails, hills or walking the dog with family.  Pre-pandemic I had begun to learn indoor climbing with my daughter. I enjoy reading and recently started sketching landscapes. I have a keen interest in global environmental issues - learning how i can make a difference while trying to lead by example for my children.
 I find solace in pine forests.
