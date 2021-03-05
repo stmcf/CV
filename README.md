@@ -79,5 +79,5 @@ The CodeClan experience has provided me with a foundation and I’m looking for 
 
 ## Interests
 
-I love being outdoors whether thats running in the trails, hills or walking the dog with family.  Pre-pandemic I had begun to learn indoor climbing with my daughter. I enjoy reading and recently started sketching landscapes. I have a keen interest in global environmental issues - learning how i can make a difference while trying to lead by example for my children.
+I love being outdoors whether thats running the trails, hills or walking the dog with family.  Pre-pandemic I had begun to learn indoor climbing with my daughter. I enjoy reading and recently started sketching landscapes. I have a keen interest in global environmental issues - learning how i can make a difference while trying to lead by example for my children.
 I find solace in pine forests.
