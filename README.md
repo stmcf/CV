@@ -25,7 +25,7 @@ The CodeClan experience has provided me with a foundation and I’m looking for 
 - Improve legacy code via implementation of new features (such as improved user feedback, data persistence from storage not only realtime)
 
 **Mindfulness App**<br>
-***Code Break: Group Project:** Built in **5 days***
+***Code Break: Group Project:*** Built in ***5 days***
 ***GitHub Link*** [Full repo](https://github.com/stmcf/code-br-) <br>
 
 - **Full stack** wellness desktop based application for programmers
