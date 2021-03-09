@@ -34,7 +34,7 @@ The CodeClan experience has provided me with a foundation and I’m looking for 
 - Responsible for developing the backend as well as setting state via hooks linked to an on screen slider
 
 **Educational App**<br>
-***WATCH THIS SPACE: Group Project:** Built in **5-Days***
+***WATCH THIS SPACE: Group Project:*** Built in ***5-Days***
 ***GitHub Links*** [client repo](https://github.com/stmcf/Watch_This_Space_client) / [server repo](https://github.com/stmcf/Watch_This_Space_server) <br>
 - **Full Stack** children's educational application built for use on tablets
 - Front-end **VUE.js** components integrating **JavaScript** logic and scoped **HTML and CSS**
