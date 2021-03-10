@@ -11,7 +11,7 @@ After 16 years of a steady, secure career, two amazing kids and in the midst of 
 
 I’m fascinated by code and the way it can make a difference in everyday life through building innovative, user-centred products.<br>
 
-The CodeClan experience has provided me with a foundation and I’m looking for a company that I can develop my progress, knowledge and understanding while making a difference from the start. My prior experience may be far cry from code however I have led or been part of successfully delivered construction projects for 16 years and look forward to utilising the collaboration and leadership skills developed in my next role in software.<br>
+The CodeClan experience has provided me with a foundation and I’m looking for a company that I can develop my progress, knowledge and understanding while making a difference from the start. My prior experience may be far cry from code however I have been part of, and led, successfully delivered construction projects for 16 years and I'm looking forward to bringing my collaboration and leadership skills to my next role in tech.<br>
 
 
 ## Experience
@@ -70,11 +70,12 @@ The CodeClan experience has provided me with a foundation and I’m looking for 
 **Consultant Quantity Surveyor (QS) / Contract Manager**
 
 - Freelance Contracts Consultant working for Tier 1 construction contractors on large scale projects and frameworks 
-- Provision of full project lifecycle commercial and project advice
-- Implementation of new costing systems and procedures
-- Management and training of junior staff
+- Provision of full project lifecycle commercial and project advice 
+- Implementation of new costing systems and procedures adhering to LEAN principles via elimation of waste and value engineering
+- Management and training of junior staff;
+  - Acting Managing Quantity Surveyor in charge of 8 staff delivering 6 different workstreams for a Scottish Water Framework
 - Varied cross-sector (water, rail, power and road) experience; 
-  - Seagreen offshore wind farm Ph 1 (£330m), Triton Knoll Windfarm (£40m), Dorset Visual Impact Provision (VIP)(£33m), Boat of Garten VIP (£9m),  Edinburgh Waverley Station Upgrade (£30m), Brodick Ferry Terminal (£23m), Scottish Water Waste Water framework (£105M)
+  - Seagreen offshore wind farm Ph 1 (£330m), Triton Knoll Windfarm (£40m), Dorset Visual Impact Provision (VIP)(£33m), Boat of Garten VIP (£9m), Edinburgh Waverley Station Upgrade (£30m), Brodick Ferry Terminal (£23m), Scottish Water Waste Water framework (£105M)
 
 
 ## Interests
