@@ -2,7 +2,7 @@
 
 _Software developer && Father. Based in Falkirk, Scotland_ <br>
 
-[Email](mailto:stevenmcfarlane@hotmail.co.uk) / [LinkedIn](https://www.linkedin.com/in/steven--mcfarlane/) / [GitHub](https://github.com/stmcf/) / [Twitter](https://twitter.com/IAMSMCF/) / 
+[Email](mailto:stevenmcfarlane@hotmail.co.uk) / [LinkedIn](https://www.linkedin.com/in/steven--mcfarlane/) / [GitHub](https://github.com/IAMSMCF/) / [Twitter](https://twitter.com/IAMSMCF/) / 
 
 
 ## Personal Profile
